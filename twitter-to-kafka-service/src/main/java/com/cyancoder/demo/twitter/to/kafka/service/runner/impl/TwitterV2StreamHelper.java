@@ -1,7 +1,7 @@
 package com.cyancoder.demo.twitter.to.kafka.service.runner.impl;
 
-import com.microservices.demo.twitter.to.kafka.service.config.TwitterToKafkaServiceConfigData;
-import com.microservices.demo.twitter.to.kafka.service.listener.TwitterKafkaStatusListener;
+import com.cyancoder.demo.twitter.to.kafka.service.config.TwitterToKafkaServiceConfigData;
+import com.cyancoder.demo.twitter.to.kafka.service.listener.TwitterKafkaStatusListener;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
